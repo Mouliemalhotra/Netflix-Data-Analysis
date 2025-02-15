@@ -18,3 +18,14 @@ To tackle this challenge, I will use SQL to efficiently extract and analyze key 
 Once the data is prepared, I will utilize Tableau to create interactive visualizations and dashboards. These visual tools will allow Netflix teams to explore trends effortlessly, such as identifying the most popular genres, analyzing audience preferences, and understanding regional viewing patterns. The goal is to provide an easy-to-use, data-driven solution that helps Netflix optimize content recommendations and improve user engagement.
 
 ![image](https://github.com/user-attachments/assets/7576cf9f-49ea-4612-aad4-5831301922fe)
+
+![image](https://github.com/user-attachments/assets/fed21615-79ee-4b19-9dfc-0eee818b0b11)
+
+
+![image](https://github.com/user-attachments/assets/dadd32b6-ddf7-4ed8-b4be-17534e093c15)
+
+
+![image](https://github.com/user-attachments/assets/abc9b4ce-e73d-4e7c-a218-6f56c4b8660e)
+
+
+![image](https://github.com/user-attachments/assets/da88e26b-0b6b-4826-8c07-26f9d847e4e7)
